@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!--Coustmized Theme-->
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#D81B60</item>
+        <item name="colorAccent">#43A047</item>
+
+
+    </style>
+    <!--Style for all the question headers-->
+    <style name="header_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">24dp</item>
+    </style>
+
+    <!--List for spinner -->
+    <string-array name="answer_array">
+        <item>@string/ar1</item>
+        <item>@string/ar2</item>
+        <item>@string/ar3</item>
+        <item>@string/ar4</item>
+    </string-array>
+
+</resources>

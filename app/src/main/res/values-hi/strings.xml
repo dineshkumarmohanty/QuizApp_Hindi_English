@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">क्विज ऐप</string>
+    <string name="answer_phrase">आपका स्कोर है</string>
+    <string name="button_answer">जमा करें</string>
+    <string name="q1">१. भारत की राजधानी क्या है?</string>
+    <string name="q1hint">आपका उत्तर</string>
+    <string name="q2">२. निम्न में से कौन से नदियां हैं?</string>
+    <string name="q2o1">महानदी</string>
+    <string name="q2o2">हिमालय</string>
+    <string name="q2o3">गंगा</string>
+    <string name="q2o4">रांची</string>
+    <string name="q3">३. ओडिशा की राजधानी क्या है?</string>
+    <string name="q3o1">कटक</string>
+    <string name="q3o2">भुवनेश्वर</string>
+    <string name="q3o3">राउरकेला</string>
+    <string name="q3o4">संबलपुर</string>
+    <string name="q4">४. क्या एशिया एक महाद्वीप है?</string>
+    <string name="q4no">नहीं</string>
+    <string name="q4yes">हाँ</string>
+    <string name="q5">५. एक क्रिकेट टीम में कितने खिलाड़ी हैं?</string>
+    <string name="ar1">६</string>
+    <string name="ar2">११</string>
+    <string name="ar3">१२</string>
+    <string name="ar4">१३</string>
+    <string name="app_title" translatable="false">क्विज ऐप( हिंदी/अंग्रेज़ी)</string>
+    <string name="a1">१</string>
+    <string name="a2">२</string>
+    <string name="a3">३</string>
+    <string name="a4">४</string>
+    <string name="a5">५</string>
+    <string name="a0">०</string>
+</resources>

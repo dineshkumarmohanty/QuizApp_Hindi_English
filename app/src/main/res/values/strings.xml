@@ -1,0 +1,36 @@
+<resources
+
+    >
+    <string name="app_name">QuizApp</string>
+    <string name="app_title">Quiz App (Hindi / English)</string>
+    <string name="q1">1. What is the Capital of India ?</string>
+    <string name="q1hint">Your Answer</string>
+    <string name="button_answer">Submit</string>
+    <string name="answer_phrase">Your Score is: </string>
+    <string name="q2">2. Which of the following are rivers ?</string>
+    <string name="q2o1">Mahanadi</string>
+    <string name="q2o2">Himalaya</string>
+    <string name="q2o3">Gnaga</string>
+    <string name="q2o4">Ranchi</string>
+    <string name="q3">3. What is the capital of Odisha ?</string>
+    <string name="q3o1">Cuttack</string>
+    <string name="q3o2">Bhubaneswar</string>
+    <string name="q3o3">Rourkela</string>
+    <string name="q3o4">Sambalpur</string>
+    <string name="q4">4. Is Asia a Continent?</string>
+    <string name="q4yes">YES</string>
+    <string name="q4no">NO</string>
+    <string name="q5">5. How many Players are there in a cricker team ?</string>
+    <string name="ar1">6</string>
+    <string name="ar2">11</string>
+    <string name="ar3">12</string>
+    <string name="ar4">13</string>
+
+    <string name="a1">1</string>
+    <string name="a2">2</string>
+    <string name="a3">3</string>
+    <string name="a4">4</string>
+    <string name="a5">5</string>
+    <string name="a0">0</string>
+
+</resources>
